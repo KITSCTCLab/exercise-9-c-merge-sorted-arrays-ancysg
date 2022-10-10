@@ -38,6 +38,3 @@ m = int(input())
 n = int(input())
 merge(nums1, m, nums2, n)
 print(nums1)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
